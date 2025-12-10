@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telhai.CS.CsharpCourse.04_W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telhai.CS.CsharpCourse.05_WpfLinq", "Telhai.CS.CsharpCourse.05_WpfLinq\Telhai.CS.CsharpCourse.05_WpfLinq.csproj", "{ABFC7702-7035-4B5A-8304-779238325CB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telhai.CS.CsharpCourse.DesignPatterns", "Telhai.CS.CsharpCourse.DesignPatterns\Telhai.CS.CsharpCourse.DesignPatterns.csproj", "{F466A1EB-D3D9-44CF-AB01-BC392FB2B85E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{ABFC7702-7035-4B5A-8304-779238325CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABFC7702-7035-4B5A-8304-779238325CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABFC7702-7035-4B5A-8304-779238325CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F466A1EB-D3D9-44CF-AB01-BC392FB2B85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F466A1EB-D3D9-44CF-AB01-BC392FB2B85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F466A1EB-D3D9-44CF-AB01-BC392FB2B85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F466A1EB-D3D9-44CF-AB01-BC392FB2B85E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
