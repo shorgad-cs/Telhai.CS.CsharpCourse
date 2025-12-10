@@ -1,0 +1,15 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Telhai.CS.CsharpCourse._04_WPF_App"
+        x:Class="Telhai.CS.CsharpCourse._04_WPF_App.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas Background="#FFB2DAFD">
+        <Button FontSize="40" Content="CLICK Me" Canvas.Left="313" Canvas.Top="113" Background="#FFE54F4F" Click="Button_Click"/>
+    </Canvas>
+
+
+</Window>
